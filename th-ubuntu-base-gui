@@ -1,0 +1,8 @@
+Section: misc
+Priority: optional
+Homepage: https://github.com/heussd/debian-packages
+Standards-Version: 3.9.2
+
+Package: th-ubuntu-base-gui
+Depends: gvim, vlc, firefox, pcmanfm, i3
+

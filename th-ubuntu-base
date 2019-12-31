@@ -1,0 +1,8 @@
+Section: misc
+Priority: optional
+Homepage: https://github.com/heussd/debian-packages
+Standards-Version: 3.9.2
+
+Package: th-ubuntu-base
+Depends: figlet, vim, make, zfsutils-linux, p7zip-full, zsh, git
+
