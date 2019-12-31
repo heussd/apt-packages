@@ -9,3 +9,5 @@ jobs:
       - uses: actions/checkout@v1
         with:
           fetch-depth: 1
+      - run: apt update && apt install -y install --no-install-recommends equivs
+      
