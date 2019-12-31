@@ -1,4 +1,4 @@
-# debian-packages
+# apt-packages
 
 APT meta packages to install my favorite dependencies.
 
